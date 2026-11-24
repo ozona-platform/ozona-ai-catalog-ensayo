@@ -1,0 +1,14 @@
+{
+  "name": "ensayo",
+  "description": "Marketplace de ensayo, vacío.",
+  "owner": {
+    "name": "ensayo"
+  },
+  "plugins": [
+    {
+      "name": "prueba",
+      "source": "./plugins/prueba",
+      "description": "Plugin de prueba vacío."
+    }
+  ]
+}
